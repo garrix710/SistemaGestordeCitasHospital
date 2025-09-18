@@ -22,14 +22,14 @@ Por lo anterior, se identifica la necesidad de implementar una solución que per
 
 ## Diagrama Entidad - Relación
 
-![Diagrama](src/assets/capturas/entidadrelacion.png)
+![Diagrama](src/assets/capturas/relacion.png)
 
 
 ---
 
 ## Diagrama Relacional
 
-![Diagrama](src/assets/capturas/entidadrelacional.png)
+![Diagrama](src/assets/capturas/relacional.png)
 
 ---
 
