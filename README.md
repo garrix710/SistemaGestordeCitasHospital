@@ -22,21 +22,21 @@ Por lo anterior, se identifica la necesidad de implementar una solución que per
 
 ## Diagrama Entidad - Relación
 
-![Diagrama](src/assets/capturascitas/relacion.png)
+![Diagrama](capturascitas/relacion.png)
 
 
 ---
 
 ## Diagrama Relacional
 
-![Diagrama](src/assets/capturascitas/relacional.png)
+![Diagrama](capturascitas/relacional.png)
 
 ---
 
 ## Diagrama UML
 
 
-![Diagrama](src/assets/capturascitas/uml.png)
+![Diagrama](capturascitas/uml.png)
 
 ---
 
