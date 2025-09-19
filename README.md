@@ -24,7 +24,6 @@ Por lo anterior, se identifica la necesidad de implementar una solución que per
 
 ![Diagrama](capturascitas/relacion.png)
 
-
 ---
 
 ## Diagrama Relacional
@@ -35,10 +34,7 @@ Por lo anterior, se identifica la necesidad de implementar una solución que per
 
 ## Diagrama UML
 
-
 ![Diagrama](capturascitas/uml.png)
-
-
 
 ---
 
@@ -51,33 +47,83 @@ Por lo anterior, se identifica la necesidad de implementar una solución que per
   
 ---
 
-
 ## Funcionalidades para Administrador
 
 - **Gestión de las personas, doctor, administrador, paciente y secretaria:**  
   Creación, edición y eliminación de las personas
-![Administrador](capturascitas/admin.png)
+  
+![Administrador](capturascitas/admin1.png)
 
 ![Administrador](capturascitas/admin2.png)
 
+
+- **Panel de inicio del administrador**  
+
 ![Administrador](capturascitas/admin3.png)
+
+
+- **Filtro con todas  las personas existentes en la base de datos** 
 
 ![Administrador](capturascitas/admin4.png)
 
-![Administrador](capturascitas/admin5.png)
-
-![Administrador](capturascitas/admin6.png)
-
-![Administrador](capturascitas/admin7.png)
-
-![Administrador](capturascitas/admin8.png)
+- **Registro de doctor por parte del administrador** 
 
 ![Administrador](capturascitas/admin9.png)
+
+![Administrador](capturascitas/admin7.png)
 
 ![Administrador](capturascitas/admin10.png)
 
 ![Administrador](capturascitas/admin11.png)
 
+![Administrador](capturascitas/admin12.png)
+
+![Administrador](capturascitas/admin13.png)
+
+
+- **Registro de pacientes por parte del administrador** 
+
+![Administrador](capturascitas/admin5.png)
+
+
+- **Registro de secretaria por parte del administrador** 
+
+![Administrador](capturascitas/admin6.png)
+
+
+- **Registro de administrador nuevo** 
+
+![Administrador](capturascitas/admin8.png)
+
+
+---
+
+## Funcionalidades para Secretaria
+
+- **creacion de personas, creacion de citas**
+
+  
+![Administrador](capturascitas/admin14.png)
+
+![Administrador](capturascitas/admin15.png)
+
+![Administrador](capturascitas/admin16.png)
+
+![Administrador](capturascitas/admin17.png)
+
+![Administrador](capturascitas/admin18.png)
+
+![Administrador](capturascitas/admin19.png)
+
+- **ccreacion de citas**
+
+![Administrador](capturascitas/admin20.png)
+
+![Administrador](capturascitas/admin21.png)
+
+![Administrador](capturascitas/admin22.png)
+
+![Administrador](capturascitas/admin23.png)
 
 
 ---
@@ -85,14 +131,12 @@ Por lo anterior, se identifica la necesidad de implementar una solución que per
 ## Funcionalidades para  Doctor
 
 - **Visualizacion de citas**  
-  El usuario puede navegar por la librería con un menú de categorías desplegables, barra de búsqueda con sugerencias en tiempo real y acceso rápido a su carrito de compras.
 
----
+![Administrador](capturascitas/admin24.png)
 
-## Funcionalidades para Secretaria
+![Administrador](capturascitas/admin25.png)
 
-- **visualicacion**  
-  Creación, edición y eliminación de las personas
+![Administrador](capturascitas/admin26.png)
 
 
 ---
