@@ -116,7 +116,7 @@ Por lo anterior, se identifica la necesidad de implementar una solución que per
 
 ![Administrador](capturascitas/admin122.png)
 
-
+![Administrador](capturascitas/admin123.png)
 
 
 - **Registro de administrador nuevo** 
@@ -124,9 +124,6 @@ Por lo anterior, se identifica la necesidad de implementar una solución que per
 ![Administrador](capturascitas/admin124.png)
 
 ![Administrador](capturascitas/admin125.png)
-
-![Administrador](capturascitas/admin126.png)
-
 
 
 ---
