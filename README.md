@@ -56,7 +56,7 @@ Por lo anterior, se identifica la necesidad de implementar una solución que per
 
 - **Gestión de las personas, doctor, administrador, paciente y secretaria:**  
   Creación, edición y eliminación de las personas
-![Administrador](capturascitas/adminl.png)
+![Administrador](capturascitas/admin.png)
 
 ![Administrador](capturascitas/admin2.png)
 
@@ -73,6 +73,11 @@ Por lo anterior, se identifica la necesidad de implementar una solución que per
 ![Administrador](capturascitas/admin8.png)
 
 ![Administrador](capturascitas/admin9.png)
+
+![Administrador](capturascitas/admin10.png)
+
+![Administrador](capturascitas/admin11.png)
+
 
 
 ---
