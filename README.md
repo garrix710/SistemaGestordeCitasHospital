@@ -68,34 +68,65 @@ Por lo anterior, se identifica la necesidad de implementar una solución que per
 
 ![Administrador](capturascitas/admin4.png)
 
-- **Registro de doctor por parte del administrador** 
+- **Registro de personas por parte del administrador** 
+
+![Administrador](capturascitas/admin6.png)
+
+![Administrador](capturascitas/admin7.png)
+
+
 
 ![Administrador](capturascitas/admin9.png)
 
-![Administrador](capturascitas/admin7.png)
+- **Eliminacion de personas por parte del administrador** 
 
 ![Administrador](capturascitas/admin10.png)
 
 ![Administrador](capturascitas/admin11.png)
 
-![Administrador](capturascitas/admin12.png)
+- **Registro de doctores por parte del administrador** 
 
-![Administrador](capturascitas/admin13.png)
+![Administrador](capturascitas/admin111.png)
+
+![Administrador](capturascitas/admin112.png)
+
+![Administrador](capturascitas/admin113.png)
+
+![Administrador](capturascitas/admin114.png)
+
+![Administrador](capturascitas/admin115.png)
+
 
 
 - **Registro de pacientes por parte del administrador** 
 
-![Administrador](capturascitas/admin5.png)
+![Administrador](capturascitas/admin116.png)
 
+![Administrador](capturascitas/admin117.png)
+
+![Administrador](capturascitas/admin118.png)
+
+![Administrador](capturascitas/admin119.png)
+
+![Administrador](capturascitas/admin120.png)
 
 - **Registro de secretaria por parte del administrador** 
 
-![Administrador](capturascitas/admin6.png)
+![Administrador](capturascitas/admin121.png)
+
+![Administrador](capturascitas/admin122.png)
+
+
 
 
 - **Registro de administrador nuevo** 
 
-![Administrador](capturascitas/admin8.png)
+![Administrador](capturascitas/admin124.png)
+
+![Administrador](capturascitas/admin125.png)
+
+![Administrador](capturascitas/admin126.png)
+
 
 
 ---
