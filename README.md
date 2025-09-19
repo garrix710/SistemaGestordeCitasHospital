@@ -2,6 +2,8 @@
 
 proyecto generado utilizando Netbens, java como lenguaje de programacion y Postgres para base de datos
 
+## EQUIPO 6
+
 
 ## Integrantes del equipo
 
