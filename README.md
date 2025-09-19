@@ -38,12 +38,41 @@ Por lo anterior, se identifica la necesidad de implementar una solución que per
 
 ![Diagrama](capturascitas/uml.png)
 
+
+
 ---
+
+## Login
+
+- **Acceso a la gestion de citas**  
+  aceeso para los diferentes usuarios (administrador, doctor o secretaria)
+
+![Administrador](capturascitas/login.png)
+  
+---
+
 
 ## Funcionalidades para Administrador
 
 - **Gestión de las personas, doctor, administrador, paciente y secretaria:**  
   Creación, edición y eliminación de las personas
+![Administrador](capturascitas/adminl.png)
+
+![Administrador](capturascitas/admin2.png)
+
+![Administrador](capturascitas/admin3.png)
+
+![Administrador](capturascitas/admin4.png)
+
+![Administrador](capturascitas/admin5.png)
+
+![Administrador](capturascitas/admin6.png)
+
+![Administrador](capturascitas/admin7.png)
+
+![Administrador](capturascitas/admin8.png)
+
+![Administrador](capturascitas/admin9.png)
 
 
 ---
